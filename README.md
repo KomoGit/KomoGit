@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KomoGit
 - 👀 I’m interested in Unity / C# / Game Development / AR
 - 🌱 I’m currently learning Unity / C#
-- 💞️ I’m looking to collaborate on AR
+- 💞️ I’m looking to collaborate on AR,Mobile Development
 - 📫 How to reach me at elnur.a@mirrorvisuals.co
 
 <!---
