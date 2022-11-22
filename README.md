@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Emulator Development
 - 📫 How to reach me at entreur@gmail.com
 
-### 📚 Tools I Know
+### 📚 Languages I Know
 
 <img align="left" alt="GoLang" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
