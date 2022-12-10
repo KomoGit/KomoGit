@@ -31,7 +31,7 @@
 <br />
 
 ### 💼 Portfolio
-- | GoRestSQLite | [https://github.com/KomoGit/GoRestSQLite] [PlDb] |
+- | GoRestSQLite |[https://github.com/KomoGit/GoRestSQLite][PlDb]|
 - | GoRestSQLite | [https://github.com/KomoGit/GoRestSQLite] [PlDb] |
 
 #
