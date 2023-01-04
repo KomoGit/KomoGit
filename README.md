@@ -35,8 +35,8 @@
 ### 💼 Portfolio
 | Names | Names | Links |
 | ------ | ------ | ------ |
-| GoRestSQLite |<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />| https://github.com/KomoGit/GoRestSQLite|
-| LinuxDesktopGen |<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />| https://github.com/KomoGit/LinuxDesktopGen|
+| GoRestSQLite |<img align="center" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />| https://github.com/KomoGit/GoRestSQLite|
+| LinuxDesktopGen |<img align="center" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />| https://github.com/KomoGit/LinuxDesktopGen|
 #
 
 <!---
