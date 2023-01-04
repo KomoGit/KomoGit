@@ -33,10 +33,10 @@
 #
 
 ### 💼 Portfolio
-| Names | Links |
-| ------ | ------ |
-| GoRestSQLite | https://github.com/KomoGit/GoRestSQLite|
-| LinuxDesktopGen | https://github.com/KomoGit/LinuxDesktopGen|
+| Names | Names | Links |
+| ------ | ------ | ------ |
+| GoRestSQLite | GoLang | https://github.com/KomoGit/GoRestSQLite|
+| LinuxDesktopGen | GoLang | https://github.com/KomoGit/LinuxDesktopGen|
 #
 
 <!---
