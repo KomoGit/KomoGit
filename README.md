@@ -35,8 +35,9 @@
 ### 💼 Portfolio
 | Names | Names | Links |
 | ------ | ------ | ------ |
-| GoRestSQLite |<img align="center" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />| https://github.com/KomoGit/GoRestSQLite|
-| LinuxDesktopGen |<img align="center" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />| https://github.com/KomoGit/LinuxDesktopGen|
+| GoRestSQLite |<img align="center" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/>| https://github.com/KomoGit/GoRestSQLite|
+| LinuxDesktopGen |<img align="center" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/>| https://github.com/KomoGit/LinuxDesktopGen|
+| FOSSMusic |<img align="center" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>| https://github.com/KomoGit/FOSSMusic|
 #
 
 <!---
