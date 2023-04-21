@@ -37,7 +37,7 @@
 | ------ | ------ | ------ |
 | GoRestSQLite |<img align="center" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/>| https://github.com/KomoGit/GoRestSQLite|
 | LinuxDesktopGen |<img align="center" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/>| https://github.com/KomoGit/LinuxDesktopGen|
-| FOSSMusic |<img align="center" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>| https://github.com/KomoGit/FOSSMusic|
+| OpenEX |<img align="center" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>| https://github.com/KomoGit/OpenEX|
 #
 
 <!---
