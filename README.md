@@ -30,7 +30,7 @@ Software & QA Automation Engineer passionate about **test automation architectur
 - Features a self-healing engine that dynamically adapts test scripts to UI DOM changes, drastically reducing test suite maintenance.
 - Integrated with Allure Framework for detailed visual execution reporting.
 
-#### 💻 Homebrew Operating System
+#### 💻 [Homebrew Operating System](https://codeberg.org/KOMOTO/Homebrew-Operating.System)
 - **Tech Stack:** C, x86 Assembly
 - A low-level exploration into systems programming featuring a custom bootloader, 64-bit long-mode setup, and kernel I/O interfaces built completely from scratch.
 
