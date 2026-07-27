@@ -39,7 +39,7 @@ Software & QA Automation Engineer passionate about **test automation architectur
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=komogit&show_icons=true&theme=tokyonight" alt="Elnur's GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=komogit&theme=tokyo-night" alt="Elnur's GitHub Activity Graph" />
 </p>
 
 ---
