@@ -1,11 +1,51 @@
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Komogit&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Komogit&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Komogit&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+# Hi there, I'm Elnur 👋
+
+[![GitHub Followers](https://img.shields.io/github/followers/komogit?style=social)](https://github.com/komogit)
+[![Codeberg](https://img.shields.io/badge/Codeberg-KOMOTO-blue?logo=codeberg)](https://codeberg.org/KOMOTO)
+
+Software & QA Automation Engineer passionate about **test automation architecture**, **AI-driven testing engines**, **API mocking frameworks**, and **low-level systems programming**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Komogit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Tech Stack & Skills
+
+- **Languages:** Python, C#, Java, C, Assembly, SQL (PostgreSQL, MySQL)
+- **Frameworks & Libraries:** .NET, Selenium, Playwright, Appium, RestAssured, NUnit, JUnit, TestNG
+- **DevOps & Tools:** Docker, Microsoft Azure, Jenkins, GitLab CI, Git, Postman, Swagger, Jira, Claude Code, MCP
+- **Core Domain Focus:** Test Automation Architecture, Model-Context Protocol (MCP) Integration, CI/CD Pipelines, System Architecture, API Tooling
+
+---
+
+### 🚀 Key Projects
+
+#### 🛠️ [Mockery](https://github.com/komogit) — *API Simulation & Mocking Engine*
+- **Tech Stack:** C#, .NET
+- Open-source developer tool designed to simulate APIs during software testing and remove external third-party dependencies in test environments.
+- Features static response mocking, dynamically generated synthetic data, and traffic record/replay capabilities for offline test execution.
+- Built-in dynamic pattern engine for generating realistic formatted test data on the fly.
+
+#### 🤖 AI-Driven Test Automation Framework
+- **Tech Stack:** Python, Playwright, Model Context Protocol (MCP), Allure
+- Model-agnostic automation framework leveraging AI models to autonomously orchestrate and execute end-to-end UI and API testing workflows.
+- Features a self-healing engine that dynamically adapts test scripts to UI DOM changes, drastically reducing test suite maintenance.
+- Integrated with Allure Framework for detailed visual execution reporting.
+
+#### 💻 Homebrew Operating System
+- **Tech Stack:** C, x86 Assembly
+- A low-level exploration into systems programming featuring a custom bootloader, 64-bit long-mode setup, and kernel I/O interfaces built completely from scratch.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=komogit&show_icons=true&theme=tokyonight" alt="Elnur's GitHub Stats" />
+</p>
+
+---
+
+### 🌐 Connect & Code
+- **GitHub:** [@komogit](https://github.com/komogit)
+- **Codeberg:** [@KOMOTO](https://codeberg.org/KOMOTO)
+- **Website:** [eabasli.com](https://eabasli.com)
+- **LinkedIn:** [linkedin.com/in/komogit](https://linkedin.com/in/komogit)
